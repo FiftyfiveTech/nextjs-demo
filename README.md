@@ -2,12 +2,18 @@
 
 This is a sample application developed to showcase Next.js capabilities. This application also makes use of the latest addition in v13 of nextjs i.e. `app` directory and the changes associated with it.
 
-## To run this example without DB connectivity
+## To run this example
 
 1. Clone this repo and then do `cd nextjs-demo` in terminal
 2. Run command `npm install`
 3. To run the application use command `npm run dev`
 4. Visit `http://localhost:3000/` to browse the application
+
+## To run this example with app directory
+
+1. Rename `_app` to `app`
+2. Rename `pages` to `_pages`
+3. Restart the application
 
 ## To run this example with DB connectivity
 
