@@ -1,6 +1,6 @@
 ## [Next.js](https://nextjs.org/learn)
 
-This is a sample application developed to showcase Next.js capabilities. This application also makes use of the latest addition in v13 of nextjs i.e. `app` directory and the changes associated with it.
+This is a sample application developed to showcase Next.js capabilities. This application also makes use of the latest addition in v13 of nextjs i.e. `app` directory and the changes associated with it. The presentation with basics of Next.js is at [Next.js PPT](https://docs.google.com/presentation/d/199XapRR-nac1DBlZNCtseLcdN3tGNgpKJgMZD9mWhxQ/edit?usp=sharing)
 
 ## To run this example
 
