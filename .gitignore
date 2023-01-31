@@ -14,10 +14,12 @@
 
 # production
 /build
+/public/uploads
 
 # misc
 .DS_Store
-.env*
+.env.local
+.env.production
 
 # debug
 npm-debug.log*
