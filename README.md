@@ -11,8 +11,8 @@ This is a sample application developed to showcase Next.js capabilities. This ap
 
 ## To run this example with app directory
 
-1. Rename `_app` to `app`
-2. Rename `pages` to `_pages`
+1. Rename `_app` directory in root to `app`
+2. Rename `pages` directory in root to `_pages`
 3. Restart the application
 
 ## To run this example with DB connectivity
